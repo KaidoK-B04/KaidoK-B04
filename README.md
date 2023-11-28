@@ -10,6 +10,6 @@ Her er link til [eksempelsider](https://kaidok-b04.github.io/portfolio/). :elect
 
 
 I Nåtiden leter jeg etter en praktisplass i Bergen. 
-Du kan nå meg på e-posten: #517BA8 "kaido.bergen@gmail.com".
+#517BA8 Du kan nå meg på e-posten: "kaido.bergen@gmail.com".
 
 Mvh, Kaido
