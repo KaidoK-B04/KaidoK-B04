@@ -7,8 +7,3 @@ I løpet av det siste halvåret har jeg gjennomgått teoridelen av frontend-foku
 programmeringsspråk og verktøy som inkluderer HTML/CSS, JavaScript, React, Git/GitHub og Figma. 
 I tillegg fullført kursets valgfrie backend modul med fokus på Node/Express, SQL og MongoDB.
 Her er link til [eksempelsider](https://kaidok-b04.github.io/portfolio/). :electron:
-
-
-I Nåtiden leter jeg etter en praktisplass i Bergen. 
-
-Mvh, Kaido
